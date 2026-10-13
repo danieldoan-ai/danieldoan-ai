@@ -1,16 +1,22 @@
-## Hi there 👋
+Hi, I'm Daniel 👋
 
-<!--
-**danieldoan-ai/danieldoan-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer building multi-agent AI systems, LLM evaluation, and coding-agent harnesses. Based in Toronto.
 
-Here are some ideas to get you started:
+What I work on
+🤖 Multi-agent systems: orchestration, concurrent execution, and failure handling for production workflows in regulated domains
+🧪 LLM evaluation: golden datasets, deterministic validators, and LLM-as-judge scoring to catch hallucinations, missing sources, and PII leaks before release
+🛠️ Agent harnesses & AI-assisted SDLC: planner, coder, and reviewer agents with human approval checkpoints and automated quality gates
+📈 Observability: OpenTelemetry tracing, structured logging, and per-agent latency and token tracking
+Tech
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Show Image Show Image Show Image Show Image Show Image Show Image Show Image Show Image Show Image
+
+Agents & AI: Microsoft Agent Framework · Azure AI Foundry · GitHub Copilot custom agents · RAG · MCP Evaluation: LLM-as-a-judge · RAGAS · DeepEval · LangSmith
+
+Education
+
+🎓 M.S. Computer Science (Machine Learning), Georgia Tech
+
+Let's connect
+
+LinkedIn
