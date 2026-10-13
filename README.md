@@ -1,22 +1,8 @@
-Hi, I'm Daniel 👋
+# 👋 Hey, I'm Daniel
 
-Software engineer building multi-agent AI systems, LLM evaluation, and coding-agent harnesses. Based in Toronto.
+🔭 **Building:** agent harnesses where AI agents plan, code, and ship, with humans in the review seat
+🧪 **Obsessed with:** making agents reliable, through evals, tracing, and human-in-the-loop design
+💬 **Ask me about:** multi-agent orchestration, LLM-as-judge, agent observability
+🎓 **Studying:** M.S. CS (Machine Learning) at Georgia Tech
 
-What I work on
-🤖 Multi-agent systems: orchestration, concurrent execution, and failure handling for production workflows in regulated domains
-🧪 LLM evaluation: golden datasets, deterministic validators, and LLM-as-judge scoring to catch hallucinations, missing sources, and PII leaks before release
-🛠️ Agent harnesses & AI-assisted SDLC: planner, coder, and reviewer agents with human approval checkpoints and automated quality gates
-📈 Observability: OpenTelemetry tracing, structured logging, and per-agent latency and token tracking
-Tech
-
-Show Image Show Image Show Image Show Image Show Image Show Image Show Image Show Image Show Image
-
-Agents & AI: Microsoft Agent Framework · Azure AI Foundry · GitHub Copilot custom agents · RAG · MCP Evaluation: LLM-as-a-judge · RAGAS · DeepEval · LangSmith
-
-Education
-
-🎓 M.S. Computer Science (Machine Learning), Georgia Tech
-
-Let's connect
-
-LinkedIn
+📫 [Connect on LinkedIn](https://www.linkedin.com/in/danieldoan-ai/)
